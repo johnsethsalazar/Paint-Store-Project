@@ -15,7 +15,7 @@ The page is almost ready to be published. You’ll be making the following color
 - reset.css - Reset CSS Syntax used for the project.
 
 ## Project Screenshot
-
+### index.html
 ![image](https://user-images.githubusercontent.com/24352433/141676408-8b3f827e-5105-43ec-870a-8cb691cb8f0a.png)
 
 
