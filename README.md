@@ -1,7 +1,7 @@
 ﻿# Paint-Store-Project
  
 ## Description
-In this project, you will create a vibrant, color-rich web page for a home paint business. It displays information about using color in a home and color swatches with varying lightness, saturation, and hue.
+In this [Codecademy project](https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-web-development-fundamentals/modules/fecp-learn-css-colors/projects/color-paint-store), you will create a vibrant, color-rich web page for a home paint business. It displays information about using color in a home and color swatches with varying lightness, saturation, and hue.
 
 The page is almost ready to be published. You’ll be making the following color-related changes:
 
